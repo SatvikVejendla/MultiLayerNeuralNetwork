@@ -41,6 +41,6 @@ print(output) # something close to 0
 
 # Credits
 
-JS - Satvik Vejendla
+Js - Satvik Vejendla
 
-PY - Arnav Nayak
+Py - Arnav Nayak
