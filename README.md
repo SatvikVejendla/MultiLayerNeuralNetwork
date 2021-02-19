@@ -30,7 +30,7 @@ for i in range(1000):
     nn.train(i, math.sin(i)
 output = nn.feedforward(Math.PI)
 print(output) # something close to 0
-
+```
 
 
 # Checklist
