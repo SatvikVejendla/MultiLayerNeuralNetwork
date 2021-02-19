@@ -38,3 +38,8 @@ print(output) # something close to 0
 - Initialize library✅
 - Create simple 1 hidden layer module✅
 - Multiple Layers
+
+# Credits
+
+JS - Satvik Vejendla
+PY - Arnav Nayak
